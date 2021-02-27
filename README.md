@@ -1,8 +1,22 @@
-# Getting Started with Create React App
+# About
+
+Single-page todo app - can add and remove tasks which are held in mock back-end (json server).
+
+# Starting the application in Visual Studio Code
+
+* run "npm install"
+* run "npm run server"
+* run "npm start"
+
+
+
+
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
