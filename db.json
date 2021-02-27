@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Meeting at work",
+      "date": "6th of April",
+      "time": "15:30",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Big fuckup",
+      "date": "6th of April",
+      "time": "14:20",
+      "reminder": false
+    },
+    {
+      "text": "Something",
+      "date": "2021-02-17",
+      "time": "21:11",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "tilulilu",
+      "date": "2021-03-23",
+      "time": "21:25",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
