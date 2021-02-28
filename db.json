@@ -8,13 +8,6 @@
       "reminder": false
     },
     {
-      "id": 2,
-      "text": "Big fuckup",
-      "date": "6th of April",
-      "time": "14:20",
-      "reminder": false
-    },
-    {
       "text": "Something",
       "date": "2021-02-17",
       "time": "21:11",
@@ -22,10 +15,10 @@
       "id": 3
     },
     {
-      "text": "tilulilu",
-      "date": "2021-03-23",
-      "time": "21:25",
-      "reminder": false,
+      "text": "Send new e-mail to Fortumo",
+      "date": "2021-02-28",
+      "time": "23:30",
+      "reminder": true,
       "id": 4
     }
   ]
